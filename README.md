@@ -14,5 +14,5 @@ when done with vms starting from project root:
 2. terraform destroy
 3. ../scripts/delete_lab_key
 
-Front end Server Image
+Front end Server Image <br>
 ![frontend](server-img.jpg)
