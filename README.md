@@ -15,4 +15,4 @@ when done with vms starting from project root:
 3. ../scripts/delete_lab_key
 
 Front end Server Image
-![frontend]("server-img.jpg")
+![frontend](server-img.jpg)
