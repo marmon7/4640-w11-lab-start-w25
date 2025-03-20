@@ -6,7 +6,7 @@
     - frontend
     - redis
   become: true
-  gather_facts: yes # Collect facts only once for the entire play
+  gather_facts: true # Collect facts only once for the entire play
 
   vars:
     # Set remote_user conditionally for each server role
